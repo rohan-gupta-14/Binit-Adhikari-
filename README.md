@@ -1,2 +1,2 @@
-# Binit-Adhikari-
+# Samar 
 C project
